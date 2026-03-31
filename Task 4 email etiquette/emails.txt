@@ -1,5 +1,5 @@
 TASK 4 – PROFESSIONAL EMAIL DRAFTS
-CSE0001 Digital Literacy | Arth Raj Singh | 25MIP10048
+CSE0001 Digital Literacy | Sarin kumar | 25BEC10072
 ================================================================
 
 
@@ -41,8 +41,7 @@ Subject: Application for Summer Internship Opportunity – Computer Science Stud
 
 Dear [Coordinator's Name / Hiring Team],
 
-I am Arth Raj Singh, a first-year Integrated M.Tech student in Computer Science
-(Computational Data Science) at VIT Bhopal University (Registration No.: 25MIP10048).
+I am Sarin kumar, a first-year B.tech ( electronics and communation engineering) at VIT Bhopal University (Registration No.: 25BEC10072).
 I am writing to express my interest in a summer internship opportunity at [Company Name].
 
 I am keen to apply my foundational knowledge of programming, data analysis, and
@@ -58,9 +57,9 @@ can be available for an interview at your convenience.
 Thank you for considering my application. I look forward to hearing from you.
 
 Yours sincerely,
-Arth Raj Singh
-Reg. No.: 25MIP10048
-Integrated M.Tech – CS (Computational Data Science), First Year
+Sarin kumar
+Reg. No.: 25BEC10072
+Integrated M.Tech – b.tech (ece) , First Year
 VIT Bhopal University
 Email: [your college email]
 LinkedIn: [your LinkedIn profile URL]

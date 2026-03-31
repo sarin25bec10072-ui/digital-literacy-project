@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts for College Students
 
-**CSE0001 Digital Literacy | Task 4 | Arth Raj Singh | 25MIP10048**
+**CSE0001 Digital Literacy | Task 4 | SARIN KUMAR | 25BEC10072**
 
 ---
 
